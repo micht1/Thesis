@@ -1,7 +1,8 @@
 # Thesis
 Aggregation of thesis repos.
 
-![overview](https://github.com/micht1/Thesis/assets/62605303/0fedcea6-98c3-42c1-a975-17a0a5bbb821)
+![overview](https://github.com/micht1/Thesis/assets/62605303/3a76a558-8706-416d-abfd-3b4cadc59cd1)
+
 
 The segmentation repo contains the segmentation node based on MMDetection 2.28.1:
 https://github.com/micht1/segmentationRos
